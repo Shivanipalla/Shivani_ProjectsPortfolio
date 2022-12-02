@@ -8,3 +8,13 @@ Data Analytics Portfolio
 •	Using pandas converted the scarped data into a dataframe.
 
 •	Created visualizations on channels w.r.t their subscriptions, videos and views using seaborn library.
+
+
+#[Project 2: Analysing Mc Donald's Menu to find its Nutrition values using Python]()
+
+•	Performed exploratory data analysis using pandas and seaborn.
+
+
+
+
+
